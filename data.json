@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "name": "ant-design-vue-pro",
+        "description": "管理后台模板",
+        "url":"gitlab-inet.zkyouxi.com/fe-public/ant-design-vue-pro.git"
+    },
+    {
+        "id": 2,
+        "name": "vue-single-page-template",
+        "description": "vue 单页模版",
+        "url": "gitlab-inet.zkyouxi.com/fe-public/vue-single-page-template.git"
+    }
+    
+]

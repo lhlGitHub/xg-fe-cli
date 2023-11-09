@@ -1,0 +1,22 @@
+{
+  "name": "xg-fe-cli",
+  "version": "1.0.0",
+  "description": "一个自动拉取模板到完成安装的一个脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "xg-cli": "bin/fe-cli.js"
+  },
+  "author": "lihaili",
+  "license": "ISC",
+  "devDependencies": {
+    "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2",
+    "execa": "^5.0.0",
+    "inquirer": "^8.0.0",
+    "ora": "^5.4.0"
+  },
+  "dependencies": {}
+}
